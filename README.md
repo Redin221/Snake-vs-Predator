@@ -55,3 +55,4 @@ A high-quality Python snake game with enhanced graphics and gameplay features.
 - **M**: Return to main menu after game over
 
 Enjoy the game!# Snake-vs-Predator
+# Snake-vs-Predator
